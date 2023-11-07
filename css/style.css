@@ -75,12 +75,12 @@ header .shopping span{
     padding-left: 200px;
 }
 .logos{
-    vertical-align: middle;
     color: black;
     font-size: 30px;
     margin-right: 20px;
     text-transform: capitalize;
     font-style: italic;
+    margin-left: -150px;
 }
 .list{
     display: grid;
